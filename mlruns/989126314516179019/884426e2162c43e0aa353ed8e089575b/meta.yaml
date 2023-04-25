@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shihab/my_projects/mlflow/mlruns/989126314516179019/884426e2162c43e0aa353ed8e089575b/artifacts
+end_time: 1681548793947
+entry_point_name: ''
+experiment_id: '989126314516179019'
+lifecycle_stage: active
+run_id: 884426e2162c43e0aa353ed8e089575b
+run_name: wistful-mouse-435
+run_uuid: 884426e2162c43e0aa353ed8e089575b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681548791001
+status: 3
+tags: []
+user_id: shihab

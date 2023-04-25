@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shihab/my_projects/mlflow/mlruns/610118098582678272/a9dedd2db0814ba380ff1080f7609dcf/artifacts
+end_time: 1681714964648
+entry_point_name: ''
+experiment_id: '610118098582678272'
+lifecycle_stage: active
+run_id: a9dedd2db0814ba380ff1080f7609dcf
+run_name: iris_classifier_17-04-23
+run_uuid: a9dedd2db0814ba380ff1080f7609dcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681714961896
+status: 3
+tags: []
+user_id: shihab

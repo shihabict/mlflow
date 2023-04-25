@@ -1,6 +1,0 @@
-artifact_location: mlflow-artifacts:/135755429223757597
-creation_time: 1681719168052
-experiment_id: '135755429223757597'
-last_update_time: 1681719168052
-lifecycle_stage: active
-name: iris_classifier_method-1

@@ -1,6 +1,0 @@
-artifact_location: file:///home/shihab/my_projects/mlflow/mlruns/610118098582678272
-creation_time: 1681712836161
-experiment_id: '610118098582678272'
-last_update_time: 1681712836161
-lifecycle_stage: active
-name: iris_classifier_17-04-23

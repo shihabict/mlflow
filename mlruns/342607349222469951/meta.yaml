@@ -1,6 +1,0 @@
-artifact_location: file:///home/shihab/my_projects/mlflow/mlruns/342607349222469951
-creation_time: 1681544236887
-experiment_id: '342607349222469951'
-last_update_time: 1681544236887
-lifecycle_stage: active
-name: basic_classifier

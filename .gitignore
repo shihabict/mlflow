@@ -20,4 +20,5 @@ env.bak/
 venv.bak/
 *.ipynb
 mlartifacts/
+mlruns/
 

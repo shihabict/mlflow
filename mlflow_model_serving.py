@@ -235,6 +235,7 @@ class MLFlowModelServer:
 
     def serve_model(self):
         import os
+        # in linux before serve commond export PATH="$HOME/.pyenv/bin:$PATH"
         mlflow.set_tracking_uri("http://127.0.0.1:5000")
         os.system('mlflow models serve --model-uri models:/iris-classifier/Production -p 1234 --no-conda')
 
